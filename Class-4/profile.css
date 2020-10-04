@@ -1,0 +1,14 @@
+body{
+    background-color: hotpink;
+}
+body > div {
+    margin:auto;
+    width: 50%;
+    text-align: center;
+}
+div{
+    background-color: khaki;
+    box-shadow: 10px 10px lightgray;
+    
+}
+
