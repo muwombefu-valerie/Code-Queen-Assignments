@@ -1,0 +1,23 @@
+.biography{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.bio-information{
+    font-family: 'Dancing Script', cursive;
+}
+body{
+    background-color: indianred;
+    text-align: center;
+}
+head{
+    text-align: center;
+}
+div{
+    background-color: lightblue;
+    box-shadow: lightgreen;
+}
+body > div{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+
+}
