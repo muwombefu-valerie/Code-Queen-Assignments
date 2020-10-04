@@ -7,17 +7,19 @@
 body{
     background-color: indianred;
     text-align: center;
+    box-shadow: maroon;
 }
 head{
     text-align: center;
 }
 div{
     background-color: lightblue;
-    box-shadow: lightgreen;
+    box-shadow: 15px 15px black ;
 }
 body > div{
     margin: auto;
     width: 50%;
     text-align: center;
+    
 
 }
